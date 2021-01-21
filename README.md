@@ -18,6 +18,11 @@ I believe that the future is totally in the clouds and that web applications wil
 [www.cmpk.com.br](http://www.cmpk.com.br/)<br>
 
 ---
+### Some languages, standards, technologies and platforms that I've used
+
+React, React Native, Webpack, Docker, Git, GitHub Actions, TypeScript, JavaScript, SASS, Node.js, NPM, HTML, CSS, MongoDB, Scrum, Kanban, TDD, DDD, SOLID, Angular, Vue.js, PHP, C#, .NET, Java, Android, PWA, SPA, ERP, e-Commerce, e-Learning, CMS, Wordpress, jQuery, Bootstrap, Materialize, Ionic, Express, MySQL, PostgreSQL, SQL Server, API, Joomla, Magento, Bitbucket, CI/CD, Linux, Apache, NGINX, PDO, ORM, MySQL Workbench, Postman
+
+---
 
 ### Find me elsewhere
 
