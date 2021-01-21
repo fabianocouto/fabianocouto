@@ -1,12 +1,18 @@
 ## Hey, I'm Fabiano Couto!
 
-I'm a Senior Software Engineer developer from Rio de Janeiro, Brazil.
+I'm Senior Software Engineer developer from Rio de Janeiro, Brazil.
+
+I believe that the future is totally in the clouds and that web applications will take over the world. Computers and cell phones will need only a web browser.
 
 ---
-### Public projects I worked on
+### Some public projects I worked on
 
 [www.ingressocerto.com](https://www.ingressocerto.com/)<br>
+[www.surfconnect.com.br](http://www.surfconnect.com.br/)<br>
+[www.boadiversao.com.br](https://www.boadiversao.com.br/)<br>
 [www.economiadodia.com.br](https://www.economiadodia.com.br/)<br>
+[www.agilizaoperacoes.com.br](http://www.agilizaoperacoes.com.br/)<br>
+[www.inicial.com.br](https://www.inicial.com.br/)<br>
 [www.cjuridico.com.br](http://www.cjuridico.com.br/)<br>
 [www.cmpk.com.br](http://www.cmpk.com.br/)<br>
 
