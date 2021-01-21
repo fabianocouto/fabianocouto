@@ -1,5 +1,16 @@
 ## Hey, I'm Fabiano Couto!
 
+I'm a Senior Software Engineer developer from Rio de Janeiro, Brazil.
+
+---
+### Public projects I worked on
+
+[www.ingressocerto.com](https://www.ingressocerto.com/)<br>
+[www.economiadodia.com.br](https://www.economiadodia.com.br/)<br>
+[www.cjuridico.com.br](http://www.cjuridico.com.br/)<br>
+[www.cmpk.com.br](http://www.cmpk.com.br/)<br>
+
+---
 
 ### Find me elsewhere
 
