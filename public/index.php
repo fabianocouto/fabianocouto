@@ -1,28 +1,23 @@
+<?php
+$dir = dirname($_SERVER['SCRIPT_NAME']);
+$dir.= empty($dir) ? null : '/';
+?>
 <!doctype html>
 <html lang="en">
 <head>
-	<meta charset="utf-8" />
-	<link rel="apple-touch-icon" sizes="76x76" href="material/assets/img/apple-icon.png">
-	<link rel="icon" type="image/png" href="material/assets/img/favicon.png">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-	<title>Fabiano Couto - Full Stack Developer / Systems Analyst</title>
-	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
-	<meta name="theme-color" content="#000000" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>Fabiano Couto - Full Stack Developer / Systems Analyst</title>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <meta name="theme-color" content="#000000" />
     <meta name="mobile-web-app-capable" content="yes" />
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
- 	<link rel="stylesheet" href="assets/css/material-kit.min.css">
- 	<link rel="stylesheet" href="assets/css/style.css">
- 	<script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-	  ga('create', 'UA-1489240-12', 'auto');
-	  ga('send', 'pageview');
-	</script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="<?=$dir?>assets/css/material-kit.min.css">
+    <link rel="stylesheet" href="<?=$dir?>assets/css/style.css">
 </head>
 <body>
+<?php require 'analyticstracking.php'; ?>
 <nav class="navbar fixed-top navbar-inverse navbar-expand-lg bg-dark" role="navigation-demo">
     <div class="container">
         <div class="navbar-translate">
@@ -59,19 +54,22 @@
         </div>
     </div>
 </nav>
-<div class="page-header header-filter" data-parallax="true" style="background-image: url('assets/img/city.jpg'); transform: translate3d(0px, 0px, 0px);">
-	<div class="container">
+<div class="page-header header-filter" data-parallax="true" style="background-image: url('<?=$dir?>assets/img/city.jpg'); transform: translate3d(0px, 0px, 0px);">
+    <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <h1 class="title">
-                	Full Stack Developer
-                	<small class="d-block text-warning">
-                		Systems Analyst
-                	</small>
+                    Full Stack Developer
+                    <small class="d-block text-warning">
+                        Systems Analyst
+                    </small>
                 </h1>
                 <h4>
-                	I'm a developer, not because of the technologies and programming languages that I knows, but because of everything I'm willing to learn.
+                    I'm a developer, not because of the technologies and programming languages that I knows, but because of everything I'm willing to learn.
                 </h4>
+                <p>
+                    <a href="http://www.fabianocouto.com.br" title="www.fabianocouto.com.br">www.fabianocouto.com.br</a>
+                </p>
             </div>
         </div>
     </div>
@@ -79,12 +77,7 @@
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
-<script src="assets/js/bootstrap-material-design.min.js"></script>
-<script src="assets/js/material-kit.min.js"></script>
-<script>
-$(document).ready(function(){
-    $("img[alt='www.000webhost.com']").closest('div').hide();
-});
-</script>
+<script src="<?=$dir?>assets/js/bootstrap-material-design.min.js"></script>
+<script src="<?=$dir?>assets/js/material-kit.min.js"></script>
 </body>
 </html>
