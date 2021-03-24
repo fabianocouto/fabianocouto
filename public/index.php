@@ -67,9 +67,6 @@ $dir.= empty($dir) ? null : '/';
                 <h4>
                     I'm a developer, not because of the technologies and programming languages that I knows, but because of everything I'm willing to learn.
                 </h4>
-                <p>
-                    <a href="http://www.fabianocouto.com.br" title="www.fabianocouto.com.br">www.fabianocouto.com.br</a>
-                </p>
             </div>
         </div>
     </div>
