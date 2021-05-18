@@ -7,13 +7,13 @@ I believe that the future is totally in the clouds and that web applications wil
 ---
 ### Some public projects I worked on
 
-[www.ingressocerto.com](https://www.ingressocerto.com/)<br>
+[www.ingressocerto.com](http://www.ingressocerto.com/)<br>
 [www.surfconnect.com.br](http://www.surfconnect.com.br/)<br>
-[www.boadiversao.com.br](https://www.boadiversao.com.br/)<br>
-[www.economiadodia.com.br](https://www.economiadodia.com.br/)<br>
+[www.boadiversao.com.br](http://www.boadiversao.com.br/)<br>
+[www.economiadodia.com.br](http://www.economiadodia.com.br/)<br>
 [www.festaserrejota.com.br](http://www.festaserrejota.com.br/)<br>
 [www.agilizaoperacoes.com.br](http://www.agilizaoperacoes.com.br/)<br>
-[www.inicial.com.br](https://www.inicial.com.br/)<br>
+[www.inicial.com.br](http://www.inicial.com.br/)<br>
 [www.cjuridico.com.br](http://www.cjuridico.com.br/)<br>
 [www.cmpk.com.br](http://www.cmpk.com.br/)<br>
 
