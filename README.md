@@ -1,6 +1,6 @@
 ## Hey, I'm Fabiano Couto!
 
-I'm Senior Software Engineer developer from Rio de Janeiro, Brazil.
+I'm Senior Software Engineer from Rio de Janeiro, Brazil.
 
 I believe that the future is totally in the clouds and that web applications will take over the world. Computers and cell phones will need only a web browser.
 
