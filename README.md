@@ -32,3 +32,5 @@ React, React Native, Webpack, Docker, Git, GitHub Actions, TypeScript, JavaScrip
 [LinkedIn](https://www.linkedin.com/in/fabianocoutol/) <br>
 [Instagram](https://instagram.com/fabianocouto) <br>
 [Twitter](https://twitter.com/fabianocoutol) <br>
+
+[![Views](https://komarev.com/ghpvc/?username=fabianocouto&style=flat)](#)
