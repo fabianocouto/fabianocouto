@@ -9,15 +9,15 @@ I believe that the future is totally in the clouds and that web applications wil
 ---
 ### Some public projects I worked on
 
-[www.ingressocerto.com](http://www.ingressocerto.com/)<br>
-[www.surfconnect.com.br](http://www.surfconnect.com.br/)<br>
-[www.boadiversao.com.br](http://www.boadiversao.com.br/)<br>
-[www.economiadodia.com.br](http://www.economiadodia.com.br/)<br>
-[www.festaserrejota.com.br](http://www.festaserrejota.com.br/)<br>
-[www.agilizaoperacoes.com.br](http://www.agilizaoperacoes.com.br/)<br>
-[www.inicial.com.br](http://www.inicial.com.br/)<br>
-[www.cjuridico.com.br](http://www.cjuridico.com.br/)<br>
-[www.cmpk.com.br](http://www.cmpk.com.br/)<br>
+[www.ingressocerto.com](http://www.ingressocerto.com/) (GBD Entretenimento)<br>
+[www.surfconnect.com.br](http://www.surfconnect.com.br/) (GBD Entretenimento)<br>
+[www.boadiversao.com.br](http://www.boadiversao.com.br/) (GBD Entretenimento)<br>
+[www.inicial.com.br](http://www.inicial.com.br/) (My Project For Freelance Jobs)<br>
+[www.economiadodia.com.br](http://www.economiadodia.com.br/) (Incial Soluções, Freelancer)<br>
+[www.festaserrejota.com.br](http://www.festaserrejota.com.br/) (Incial Soluções, Freelancer)<br>
+[www.agilizaoperacoes.com.br](http://www.agilizaoperacoes.com.br/) (Incial Soluções, Freelancer)<br>
+[www.cjuridico.com.br](http://www.cjuridico.com.br/) (Incial Soluções, Freelancer)<br>
+[www.cmpk.com.br](http://www.cmpk.com.br/) (Incial Soluções, Freelancer)<br>
 
 ---
 ### Some languages, standards, technologies and platforms that I've used
