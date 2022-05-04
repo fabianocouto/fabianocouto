@@ -24,6 +24,8 @@ I believe that the future is totally in the clouds and that web applications wil
 
 React, React Native, Webpack, Docker, Git, GitHub Actions, TypeScript, JavaScript, SASS, Node.js, NPM, HTML, CSS, MongoDB, Scrum, Kanban, TDD, DDD, SOLID, Angular, Vue.js, PHP, C#, .NET, Java, Android, PWA, SPA, ERP, e-Commerce, e-Learning, CMS, Wordpress, jQuery, Bootstrap, Materialize, Ionic, Express, MySQL, PostgreSQL, SQL Server, API, Joomla, Magento, Bitbucket, CI/CD, Linux, Apache, NGINX, PDO, ORM, MySQL Workbench, Postman
 
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianocouto&layout=compact&langs_count=10&bg_color=24292f&text_color=adbac7&border_color=373e47&icon_color=adbac7)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### Find me elsewhere
