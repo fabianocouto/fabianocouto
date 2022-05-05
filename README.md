@@ -1,3 +1,6 @@
+[![Views](https://komarev.com/ghpvc/?username=fabianocouto&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
+[![wakatime](https://wakatime.com/badge/user/e10e1993-7b76-418e-9b12-a01c184ddcca.svg)](https://wakatime.com/@e10e1993-7b76-418e-9b12-a01c184ddcca)
+
 ## Hey, I'm Fabiano Couto!
 
 I'm Senior Software Engineer from Rio de Janeiro, Brazil.
@@ -34,5 +37,3 @@ React, React Native, Webpack, Docker, Git, GitHub Actions, TypeScript, JavaScrip
 [LinkedIn](https://www.linkedin.com/in/fabianocoutol/) <br>
 [Instagram](https://instagram.com/fabianocouto) <br>
 [Twitter](https://twitter.com/fabianocoutol) <br>
-
-[![Views](https://komarev.com/ghpvc/?username=fabianocouto&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
