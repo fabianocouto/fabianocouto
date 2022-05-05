@@ -7,7 +7,10 @@ I'm Senior Software Engineer from Rio de Janeiro, Brazil.
 
 I believe that the future is totally in the clouds and that web applications will take over the world. Computers and cell phones will need only a web browser.
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=fabianocouto&show_icons=true&include_all_commits=true&count_private=true&hide=stars&bg_color=24292f&text_color=adbac7&border_color=373e47&icon_color=adbac7)](https://github.com/anuraghazra/github-readme-stats)
+<div class="d-block">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width=49.5% src="https://github-readme-stats.vercel.app/api?username=fabianocouto&show_icons=true&include_all_commits=true&count_private=true&bg_color=24292f&text_color=adbac7&border_color=373e47&icon_color=adbac7" alt="fabianocouto" /></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img width=49.5% src="https://github-readme-streak-stats.herokuapp.com/?user=fabianocouto&background=24292f&border=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=539bf5&currStreakLabel=539bf5&fire=539bf5" alt="fabianocouto" /></a>
+</div>
 
 ---
 ### Some public projects I worked on
