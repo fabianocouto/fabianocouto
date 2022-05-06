@@ -26,6 +26,14 @@ I believe that the future is totally in the clouds and that web applications wil
 [www.cmpk.com.br](http://www.cmpk.com.br/) (Incial Soluções, Freelancer)<br>
 
 ---
+### Some open source projects I created
+
+<div class="d-block">
+  <a href="https://github.com/inicialsolucoes/itaucripto-php" title="Itaucripto PHP"><img width=49.5% src="https://github-readme-stats.vercel.app/api/pin/?username=inicialsolucoes&repo=itaucripto-php&bg_color=24292f&text_color=adbac7&border_color=373e47&icon_color=adbac7" alt="Itaucripto PHP" /></a>
+  <a href="https://github.com/inicialsolucoes/rdstation-php" title="RD Station PHP"><img width=49.5% src="https://github-readme-stats.vercel.app/api/pin/?username=inicialsolucoes&repo=rdstation-php&bg_color=24292f&text_color=adbac7&border_color=373e47&icon_color=adbac7" alt="RD Station PHP" /></a>
+</div>
+
+---
 ### Some languages, standards, technologies and platforms that I've used
 
 React, React Native, Webpack, Docker, Git, GitHub Actions, TypeScript, JavaScript, SASS, Node.js, NPM, HTML, CSS, MongoDB, Scrum, Kanban, TDD, DDD, SOLID, Angular, Vue.js, PHP, C#, .NET, Java, Android, PWA, SPA, ERP, e-Commerce, e-Learning, CMS, Wordpress, jQuery, Bootstrap, Materialize, Ionic, Express, MySQL, PostgreSQL, SQL Server, API, Joomla, Magento, Bitbucket, CI/CD, Linux, Apache, NGINX, PDO, ORM, MySQL Workbench, Postman, Ruby, Bash, Makefile, YAML
