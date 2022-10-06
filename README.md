@@ -45,7 +45,7 @@ React, React Native, Webpack, Docker, Git, GitHub Actions, TypeScript, JavaScrip
 
 ### Find me elsewhere
 
-[Portfolio](http://www.fabianocouto.com.br) <br>
-[LinkedIn](https://www.linkedin.com/in/fabianocoutol/) <br>
-[Instagram](https://instagram.com/fabianocouto) <br>
-[Twitter](https://twitter.com/fabianocoutol) <br>
+[Portfolio](http://www.fabianocouto.com.br) |
+[LinkedIn](https://www.linkedin.com/in/fabianocoutol/) |
+[Instagram](https://instagram.com/fabianocouto) |
+[Twitter](https://twitter.com/fabianocoutol)
