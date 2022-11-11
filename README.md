@@ -5,7 +5,7 @@
 
 I'm Senior Software Engineer from Rio de Janeiro, Brazil.
 
-I believe that the future is totally in the clouds and that web applications will take over the world. Computers and cell phones will need only a web browser.
+I believe that the future will be entirely in the clouds and that web applications will dominate the world. Computers and cell phones will only need a web browser.
 
 <div class="d-block">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats"><img width=49.5% src="https://github-readme-stats.vercel.app/api?username=fabianocouto&show_icons=true&include_all_commits=true&count_private=true&bg_color=24292f&text_color=adbac7&border_color=373e47&icon_color=adbac7" alt="fabianocouto" /></a>
@@ -13,7 +13,7 @@ I believe that the future is totally in the clouds and that web applications wil
 </div>
 
 ---
-### Some public projects I worked on
+### Some public projects I've worked on
 
 [www.ingressocerto.com](http://www.ingressocerto.com/) (GBD Entretenimento)<br>
 [www.surfconnect.com.br](http://www.surfconnect.com.br/) (GBD Entretenimento)<br>
@@ -27,7 +27,7 @@ I believe that the future is totally in the clouds and that web applications wil
 [www.cmpk.com.br](http://www.cmpk.com.br/) (Incial Soluções, Freelancer)<br>
 
 ---
-### Some open source projects I created
+### Some open source projects I've created
 
 <div class="d-block">
   <a href="https://github.com/inicialsolucoes/itaucripto-php" title="Itaucripto PHP"><img width=49.5% src="https://github-readme-stats.vercel.app/api/pin/?username=inicialsolucoes&repo=itaucripto-php&bg_color=24292f&text_color=adbac7&border_color=373e47&icon_color=adbac7" alt="Itaucripto PHP" /></a>
