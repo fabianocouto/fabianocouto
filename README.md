@@ -8,8 +8,8 @@ I'm Senior Software Engineer from Rio de Janeiro, Brazil.
 I believe that the future will be entirely in the clouds and that web applications will dominate the world. Computers and cell phones will only need a web browser.
 
 <div class="d-block">
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.vercel.app/api?username=fabianocouto&show_icons=true&include_all_commits=true&count_private=true&bg_color=24292f&text_color=adbac7&border_color=373e47&icon_color=adbac7&v=1" alt="fabianocouto" style="width: 49.5%; height: 198px;" /></a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Github Readme Streak Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fabianocouto&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=539bf5&currStreakLabel=539bf5&fire=539bf5" alt="fabianocouto" style="width: 49.5%; height: 198px;" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.vercel.app/api?username=fabianocouto&show_icons=true&include_all_commits=true&count_private=true&bg_color=24292f&text_color=adbac7&border_color=373e47&icon_color=adbac7&v=1" alt="fabianocouto" width=49.5% height=198px /></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Github Readme Streak Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fabianocouto&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=539bf5&currStreakLabel=539bf5&fire=539bf5" alt="fabianocouto" width=49.5% height=198px /></a>
 </div>
 
 ---
