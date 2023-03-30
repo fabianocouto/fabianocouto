@@ -9,7 +9,7 @@ I believe that the future will be entirely in the clouds and that web applicatio
 
 <div class="d-block">
   <!-- stats theme: github_dark_dimmed / &bg_color=24292f&title_color=2f80ee&text_color=adbac7&border_color=373e47&icon_color=adbac7 -->
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=fabianocouto&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28" alt="fabianocouto" width=49.5% /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=fabianocouto&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&v1" alt="fabianocouto" width=49.5% /></a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Github Readme Streak Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fabianocouto&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=539bf5&currStreakLabel=539bf5&fire=539bf5" alt="fabianocouto" width=49.5% /></a>
 </div>
 
@@ -31,8 +31,8 @@ I believe that the future will be entirely in the clouds and that web applicatio
 ### Some open source projects I've created
 
 <div class="d-block">
-  <a href="https://github.com/inicialsolucoes/itaucripto-php" title="Itaucripto PHP"><img width=49.5% src="https://fabianocouto-readme-stats.vercel.app/api/pin/?username=inicialsolucoes&repo=itaucripto-php&theme=github_dark_dimmed" alt="Itaucripto PHP" /></a>
-  <a href="https://github.com/inicialsolucoes/rdstation-php" title="RD Station PHP"><img width=49.5% src="https://fabianocouto-readme-stats.vercel.app/api/pin/?username=inicialsolucoes&repo=rdstation-php&theme=github_dark_dimmed" alt="RD Station PHP" /></a>
+  <a href="https://github.com/inicialsolucoes/itaucripto-php" title="Itaucripto PHP"><img width=49.5% src="https://fabianocouto-readme-stats.vercel.app/api/pin/?username=inicialsolucoes&repo=itaucripto-php&theme=github_dark_dimmed&v1" alt="Itaucripto PHP" /></a>
+  <a href="https://github.com/inicialsolucoes/rdstation-php" title="RD Station PHP"><img width=49.5% src="https://fabianocouto-readme-stats.vercel.app/api/pin/?username=inicialsolucoes&repo=rdstation-php&theme=github_dark_dimmed&v1" alt="RD Station PHP" /></a>
 </div>
 
 ---
