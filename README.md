@@ -8,7 +8,6 @@ I'm Senior Software Engineer from Rio de Janeiro, Brazil.
 I believe that the future will be entirely in the clouds and that web applications will dominate the world. Computers and cell phones will only need a web browser.
 
 <div class="d-block">
-  <!-- stats theme: github_dark_dimmed / &bg_color=24292f&title_color=2f80ee&text_color=adbac7&border_color=373e47&icon_color=adbac7 -->
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=fabianocouto&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&v1" alt="fabianocouto" width=49.5% /></a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Github Readme Streak Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fabianocouto&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=539bf5&currStreakLabel=539bf5&fire=539bf5" alt="fabianocouto" width=49.5% /></a>
 </div>
@@ -40,19 +39,12 @@ I believe that the future will be entirely in the clouds and that web applicatio
 
 React, React Native, Webpack, Docker, Git, GitHub Actions, TypeScript, JavaScript, SASS, Node.js, NPM, HTML, CSS, MongoDB, Scrum, Kanban, TDD, DDD, SOLID, Angular, Vue.js, PHP, C#, .NET, Java, Android, PWA, SPA, ERP, e-Commerce, e-Learning, CMS, Wordpress, jQuery, Bootstrap, Materialize, Ionic, Express, MySQL, PostgreSQL, SQL Server, API, Joomla, Magento, Bitbucket, CI/CD, Linux, Apache, NGINX, PDO, ORM, MySQL Workbench, Postman, Ruby, Bash, Makefile, YAML, AWS, Heroku, RabbitMQ, EC2, S3, CloudFront, Lambda, RDS, SQS, Cognito, Serverless, Microsrvices, New Relic, SSO, PagerDuty, ECR, Terraform, Route 53, Data Lakes, Vercel
 
-
-<div class="d-flex flex-wrap">
-  <div class="col-6 col-lg-6">
-    Text
-  </div>
-  <div class="col-6 col-lg-6">
-    Text
-  </div>
+<div class="d-block">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Wakatime"><img src="https://fabianocouto-readme-stats.vercel.app/api/wakatime?username=fabianocouto&theme=github_dark_dimmed&layout=compact" alt="fabianocouto" width=49.5% /></a>
+  <!--
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Langs"><img src="https://fabianocouto-readme-stats.vercel.app/api/top-langs/?username=fabianocouto&layout=compact&langs_count=10&theme=github_dark_dimmed" alt="fabianocouto" /></a>
+-->
 </div>
-
-[![Wakatime](https://fabianocouto-readme-stats.vercel.app/api/wakatime?username=fabianocouto&theme=github_dark_dimmed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Langs](https://fabianocouto-readme-stats.vercel.app/api/top-langs/?username=fabianocouto&layout=compact&langs_count=10&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
