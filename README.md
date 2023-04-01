@@ -5,6 +5,8 @@
 
 I'm Senior Software Engineer from Rio de Janeiro, Brazil.
 
+I appreciate and encourage the creation of simple solutions, clean code, responsive and symmetrical designs. I like to think about my codes and know that I created a true work of art, paying attention to the smallest details. I'm almost as perfectionist as Steve Jobs' father, who was even concerned with the wood at the bottom of drawers.
+
 I believe that the future will be entirely in the clouds and that web applications will dominate the world. Computers and cell phones will only need a web browser.
 
 <div class="d-block">
