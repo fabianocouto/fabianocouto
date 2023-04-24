@@ -32,8 +32,8 @@ I believe that the future will be entirely in the clouds and that web applicatio
 ### Some open source projects I've created
 
 <div class="d-block">
-  <a href="https://github.com/inicialsolucoes/itaucripto-php" title="Itaucripto PHP"><img width=49.5% src="https://fabianocouto-readme-stats.vercel.app/api/pin/?username=inicialsolucoes&repo=itaucripto-php&theme=github_dark_dimmed&v1" alt="Itaucripto PHP" /></a>
-  <a href="https://github.com/inicialsolucoes/rdstation-php" title="RD Station PHP"><img width=49.5% src="https://fabianocouto-readme-stats.vercel.app/api/pin/?username=inicialsolucoes&repo=rdstation-php&theme=github_dark_dimmed&v1" alt="RD Station PHP" /></a>
+  <a href="https://github.com/inicialsolucoes/itaucripto-php" title="Itaucripto PHP"><img width=48.7% aligh=left src="https://fabianocouto-readme-stats.vercel.app/api/pin/?username=inicialsolucoes&repo=itaucripto-php&theme=github_dark_dimmed&v1" alt="Itaucripto PHP" /></a>
+  <a href="https://github.com/inicialsolucoes/rdstation-php" title="RD Station PHP"><img width=48.7% src="https://fabianocouto-readme-stats.vercel.app/api/pin/?username=inicialsolucoes&repo=rdstation-php&theme=github_dark_dimmed&v1" alt="RD Station PHP" /></a>
 </div>
 
 ---
@@ -42,8 +42,8 @@ I believe that the future will be entirely in the clouds and that web applicatio
 React, React Native, Webpack, Docker, Git, GitHub Actions, TypeScript, JavaScript, SASS, Node.js, NPM, HTML, CSS, MongoDB, Scrum, Kanban, TDD, DDD, SOLID, Angular, Vue.js, PHP, C#, .NET, Java, Android, PWA, SPA, ERP, e-Commerce, e-Learning, CMS, Wordpress, jQuery, Bootstrap, Materialize, Ionic, Express, MySQL, PostgreSQL, SQL Server, API, Joomla, Magento, Bitbucket, CI/CD, Linux, Apache, NGINX, PDO, ORM, MySQL Workbench, Postman, Ruby, Bash, Makefile, YAML, AWS, Heroku, RabbitMQ, EC2, S3, CloudFront, Lambda, RDS, SQS, Cognito, Serverless, Microsrvices, New Relic, SSO, PagerDuty, ECR, Terraform, Route 53, Data Lakes, Vercel
 
 <div class="d-block">
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Wakatime"><img src="https://fabianocouto-readme-stats.vercel.app/api/wakatime?username=fabianocouto&theme=github_dark_dimmed&layout=compact" alt="fabianocouto" width=49% align=left /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Langs"><img src="https://fabianocouto-readme-stats.vercel.app/api/top-langs/?username=fabianocouto&layout=compact&langs_count=10&theme=github_dark_dimmed" alt="fabianocouto" width=49% /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Wakatime"><img src="https://fabianocouto-readme-stats.vercel.app/api/wakatime?username=fabianocouto&theme=github_dark_dimmed&layout=compact" alt="fabianocouto" width=49.5% align=left /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Langs"><img src="https://fabianocouto-readme-stats.vercel.app/api/top-langs/?username=fabianocouto&layout=compact&langs_count=10&theme=github_dark_dimmed" alt="fabianocouto" width=48% /></a>
 </div>
 
 ---
