@@ -14,7 +14,7 @@ I believe that the future will be entirely in the clouds and that web applicatio
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Github Readme Streak Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fabianocouto&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=539bf5&currStreakLabel=539bf5&fire=539bf5" alt="fabianocouto" width=48.7% /></a>
 </div>
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://github-readme-activity-graph.cyclic.app/graph/?username=fabianocouto&bg_color=24292F&title_color=539bf5&color=ADBAC7&line=ADBAC7&point=539bf5&area=true&area_color=ADBAC7&radius=5&hide_border=true" alt="fabianocouto" width=99% />
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://github-readme-activity-graph.cyclic.app/graph/?username=fabianocouto&bg_color=24292F&title_color=539bf5&color=ADBAC7&line=ADBAC7&point=539bf5&area=true&area_color=ADBAC7&radius=5&hide_border=true" alt="fabianocouto" width=99% style="border: 1px solid #444c57; border-radius: 5px; margin-top: 15px;" /></a>
 
 ---
 ### Some public projects I've worked on
