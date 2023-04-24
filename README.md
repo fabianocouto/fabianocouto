@@ -32,7 +32,7 @@ I believe that the future will be entirely in the clouds and that web applicatio
 ### Some open source projects I've created
 
 <div class="d-block">
-  <a href="https://github.com/inicialsolucoes/itaucripto-php" title="Itaucripto PHP"><img width=48.7% aligh=left src="https://fabianocouto-readme-stats.vercel.app/api/pin/?username=inicialsolucoes&repo=itaucripto-php&theme=github_dark_dimmed&v1" alt="Itaucripto PHP" /></a>
+  <a href="https://github.com/inicialsolucoes/itaucripto-php" title="Itaucripto PHP"><img width=48.7% align=left src="https://fabianocouto-readme-stats.vercel.app/api/pin/?username=inicialsolucoes&repo=itaucripto-php&theme=github_dark_dimmed&v1" alt="Itaucripto PHP" /></a>
   <a href="https://github.com/inicialsolucoes/rdstation-php" title="RD Station PHP"><img width=48.7% src="https://fabianocouto-readme-stats.vercel.app/api/pin/?username=inicialsolucoes&repo=rdstation-php&theme=github_dark_dimmed&v1" alt="RD Station PHP" /></a>
 </div>
 
