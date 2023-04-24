@@ -43,7 +43,7 @@ React, React Native, Webpack, Docker, Git, GitHub Actions, TypeScript, JavaScrip
 
 <div class="d-block">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Wakatime"><img src="https://fabianocouto-readme-stats.vercel.app/api/wakatime?username=fabianocouto&theme=github_dark_dimmed&layout=compact" alt="fabianocouto" width=49.4% align=left /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Langs"><img src="https://fabianocouto-readme-stats.vercel.app/api/top-langs/?username=fabianocouto&layout=compact&langs_count=10&theme=github_dark_dimmed" alt="fabianocouto" width=49.3% /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Langs"><img src="https://fabianocouto-readme-stats.vercel.app/api/top-langs/?username=fabianocouto&layout=compact&langs_count=10&theme=github_dark_dimmed" alt="fabianocouto" width=49.1% /></a>
 </div>
 
 ---
