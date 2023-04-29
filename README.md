@@ -16,7 +16,7 @@ I believe that the future will be entirely in the clouds and that web applicatio
 
 ---
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://github-readme-activity-graph.cyclic.app/graph/?username=fabianocouto&bg_color=24292F&title_color=539bf5&color=ADBAC7&line=ADBAC7&point=539bf5&area=true&area_color=ADBAC7&radius=5&hide_border=true" alt="fabianocouto" width=99.8% style="border: 1px solid #444c57; border-radius: 5px; margin-top: 15px;" /></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=fabianocouto&bg_color=24292F&title_color=539bf5&color=ADBAC7&line=ADBAC7&point=539bf5&area=true&area_color=ADBAC7&radius=5&hide_border=true" alt="fabianocouto" width=99.8% style="border: 1px solid #444c57; border-radius: 5px; margin-top: 15px;" /></a>
 
 ---
 ### Some public projects I've worked on
