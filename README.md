@@ -41,7 +41,7 @@ I believe that the future will be entirely in the clouds and that web applicatio
 ---
 ### Some languages, standards, technologies and platforms that I've used
 
-React, React Native, Webpack, Docker, Git, GitHub Actions, TypeScript, JavaScript, SASS, Node.js, NPM, HTML, CSS, MongoDB, Scrum, Kanban, TDD, DDD, SOLID, Angular, Vue.js, PHP, C#, .NET, Java, Android, PWA, SPA, ERP, e-Commerce, e-Learning, CMS, Wordpress, jQuery, Bootstrap, Materialize, Ionic, Express, MySQL, PostgreSQL, SQL Server, API, Joomla, Magento, Bitbucket, CI/CD, Linux, Apache, NGINX, PDO, ORM, MySQL Workbench, Postman, Ruby, Bash, Makefile, YAML, AWS, Heroku, RabbitMQ, EC2, S3, CloudFront, Lambda, RDS, SQS, Cognito, Serverless, Microsrvices, New Relic, SSO, PagerDuty, ECR, Terraform, Route 53, Data Lakes, Vercel
+React, React Native, Webpack, Docker, Git, GitHub Actions, TypeScript, JavaScript, JestJS, SASS, Node.js, NPM, HTML, CSS, MongoDB, Scrum, Kanban, TDD, DDD, SOLID, Angular, Vue.js, PHP, C#, .NET, Java, Android, PWA, SPA, ERP, e-Commerce, e-Learning, CMS, Wordpress, jQuery, Bootstrap, Materialize, Ionic, Express, MySQL, PostgreSQL, SQL Server, API, Joomla, Magento, Bitbucket, CI/CD, Linux, Apache, NGINX, PDO, ORM, MySQL Workbench, Postman, Ruby, Bash, Makefile, YAML, AWS, Heroku, RabbitMQ, EC2, S3, CloudFront, Lambda, RDS, SQS, Cognito, Serverless, Microsrvices, New Relic, SSO, PagerDuty, ECR, Terraform, Route 53, Data Lakes, Vercel
 
 <div class="d-block">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Wakatime"><img src="https://fabianocouto-readme-stats.vercel.app/api/wakatime?username=fabianocouto&range=all_time&theme=github_dark_dimmed&layout=compact" alt="fabianocouto" width=49.5% align=left /></a>
