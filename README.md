@@ -55,4 +55,5 @@ I believe that the future will be entirely in the clouds and that web applicatio
 [Portfolio](http://www.fabianocouto.com.br) |
 [LinkedIn](https://www.linkedin.com/in/fabianocoutol/) |
 [Instagram](https://instagram.com/fabianocouto) |
-[Twitter](https://twitter.com/fabianocoutol)
+[Twitter](https://twitter.com/fabianocoutol) |
+Service: [Status](https://statuspage.freshping.io/68913-GithubReadmeStats/)
