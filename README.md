@@ -10,11 +10,11 @@ I appreciate and encourage the creation of simple solutions, clean code, respons
 I believe that the future will be entirely in the clouds and that web applications will dominate the world. Computers and cell phones will only need a web browser.
 
 <div class="d-block">
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats"><img src="assets/stats.svg" alt="fabianocouto" width=48.7% align=left /></a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Github Readme Streak Stats"><img src="assets/streak-stats.svg" alt="fabianocouto" width=48.7% /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats"><img src="https://raw.githubusercontent.com/fabianocouto/fabianocouto/main/assets/stats.svg" alt="fabianocouto" width=48.7% align=left /></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Github Readme Streak Stats"><img src="https://raw.githubusercontent.com/fabianocouto/fabianocouto/main/assets/streak-stats.svg" alt="fabianocouto" width=48.7% /></a>
 </div>
 <br>
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="assets/activity-graph.svg" alt="fabianocouto" width=99.8% /></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://raw.githubusercontent.com/fabianocouto/fabianocouto/main/assets/activity-graph.svg" alt="fabianocouto" width=99.8% /></a>
 
 ---
 ### Some public projects I've worked on
@@ -34,8 +34,8 @@ I believe that the future will be entirely in the clouds and that web applicatio
 ### Some open source projects I've created
 
 <div class="d-block">
-  <a href="https://github.com/inicialsolucoes/itaucripto-php" title="Itaucripto PHP"><img width=48.7% align=left src="assets/repo-card-itaucripto-php.svg" alt="Itaucripto PHP" /></a>
-  <a href="https://github.com/inicialsolucoes/rdstation-php" title="RD Station PHP"><img width=48.7% src="assets/repo-card-rdstation-php.svg" alt="RD Station PHP" /></a>
+  <a href="https://github.com/inicialsolucoes/itaucripto-php" title="Itaucripto PHP"><img width=48.7% align=left src="https://raw.githubusercontent.com/fabianocouto/fabianocouto/main/assets/repo-card-itaucripto-php.svg" alt="Itaucripto PHP" /></a>
+  <a href="https://github.com/inicialsolucoes/rdstation-php" title="RD Station PHP"><img width=48.7% src="https://raw.githubusercontent.com/fabianocouto/fabianocouto/main/assets/repo-card-rdstation-php.svg" alt="RD Station PHP" /></a>
 </div>
 
 ---
@@ -44,8 +44,8 @@ I believe that the future will be entirely in the clouds and that web applicatio
 [React](https://react.dev/), [React Native](https://reactnative.dev/), [Webpack](https://webpack.js.org/), [Docker](https://www.docker.com/), Git, [GitHub Actions](https://docs.github.com/en/actions), [TypeScript](https://www.typescriptlang.org/), JavaScript, [JestJS](https://jestjs.io/), [SASS](https://sass-lang.com/), [Node.js](https://nodejs.org/en), [NPM](https://www.npmjs.com/), [HTML](https://html.com/), CSS, [MongoDB](https://www.mongodb.com/), [Scrum](https://www.scrum.org/), Kanban, TDD, DDD, SOLID, [Angular](https://angular.io/), [Vue.js](https://vuejs.org/), [PHP](https://www.php.net/), C#, .NET, Java, [Android](https://developer.android.com/), PWA, SPA, ERP, e-Commerce, e-Learning, CMS, [Wordpress](https://wordpress.com/), jQuery, [Bootstrap](https://getbootstrap.com/), [Materialize](https://materializecss.com/), [Ionic](https://ionicframework.com/), [Express](https://expressjs.com/), [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), SQL Server, API, Joomla, Magento, Bitbucket, CI/CD, Linux, Apache, NGINX, PDO, ORM, MySQL Workbench, Postman, Ruby, Bash, Makefile, YAML, [AWS](https://aws.amazon.com/), [Heroku](https://www.heroku.com/), [RabbitMQ](https://www.rabbitmq.com/), EC2, S3, [CloudFront](https://aws.amazon.com/cloudfront), [Lambda](https://aws.amazon.com/lambda), RDS, SQS, [Cognito](https://aws.amazon.com/cognito), Serverless, Microsrvices, [New Relic](https://newrelic.com/), SSO, [PagerDuty](https://www.pagerduty.com/), ECR, [Terraform](https://www.terraform.io/), [Route 53](https://aws.amazon.com/route53), Data Lakes, [Vercel](https://vercel.com/)
 
 <div class="d-block">
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Wakatime"><img src="assets/wakatime.svg" alt="fabianocouto" width=49.5% align=left /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Langs"><img src="assets/top-langs.svg" alt="fabianocouto" width=48% /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Wakatime"><img src="https://raw.githubusercontent.com/fabianocouto/fabianocouto/main/assets/wakatime.svg" alt="fabianocouto" width=49.5% align=left /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Langs"><img src="https://raw.githubusercontent.com/fabianocouto/fabianocouto/main/assets/top-langs.svg" alt="fabianocouto" width=48% /></a>
 </div>
 
 ---
