@@ -45,7 +45,7 @@ I believe that the future will be entirely in the clouds and that web applicatio
 
 <div class="d-block">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Wakatime"><img src="https://raw.githubusercontent.com/fabianocouto/fabianocouto/main/assets/wakatime.svg" alt="fabianocouto" width=49.5% align=left /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Langs"><img src="https://raw.githubusercontent.com/fabianocouto/fabianocouto/main/assets/top-langs.svg" alt="fabianocouto" width=48% /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Langs"><img src="https://fabianocouto-readme-stats.vercel.app/api/top-langs/?username=fabianocouto&layout=compact&langs_count=10&theme=github_dark_dimmed" alt="fabianocouto" width=48% /></a>
 </div>
 
 ---
