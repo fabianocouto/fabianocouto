@@ -489,7 +489,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 45 hrs 32 mins
+        JSON - 45 hrs 34 mins
       </text>
     </g>
   
@@ -524,7 +524,7 @@
     <g transform="translate(25, 125)">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 26 hrs 32 mins
+        YAML - 26 hrs 33 mins
       </text>
     </g>
   
