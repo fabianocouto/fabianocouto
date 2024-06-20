@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="210.4125"
+            width="210.50550000000004"
             height="8"
             fill="#3178c6"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="210.4125"
+            x="210.50550000000004"
             y="0"
-            width="106.02"
+            width="105.9735"
             height="8"
             fill="#4F5D95"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="316.4325"
+            x="316.47900000000004"
             y="0"
-            width="26.179499999999997"
+            width="26.133000000000003"
             height="8"
             fill="#858585"
           />
@@ -478,7 +478,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 448 hrs 3 mins
+        TypeScript - 448 hrs 32 mins
       </text>
     </g>
   
@@ -520,7 +520,7 @@
     <g transform="translate(25, 100)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 29 hrs 28 mins
+        Markdown - 29 hrs 29 mins
       </text>
     </g>
   
