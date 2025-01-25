@@ -251,7 +251,7 @@
             y="0"
             width="2.2784999999999997"
             height="8"
-            fill="#563d7c"
+            fill="#663399"
           />
         
           <rect
@@ -570,7 +570,7 @@
     </g>
   
     <g transform="translate(25, 175)">
-      <circle cx="5" cy="6" r="5" fill="#563d7c" />
+      <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         CSS - 5 hrs 38 mins
       </text>
