@@ -118,3 +118,15 @@ Instrutor do projeto de capacitação e treinamento para desenvolvimento e manut
 
 A Escola Técnica Estadual Visconde de Mauá (ETEVM) pertence a rede de escolas da Fundação de Apoio à Escola Técnica (FAETEC), que é a instituição responsável pela implementação da política de Educação Profissional e Tecnológica do Estado do Rio de Janeiro. Na ETEVM eu aprendi a operar e dar manutenção em máquinas industriais e painéis elétricos, além do ensino técnico para o desenvolvimento de projetos de peças e instalações.
 
+## Publicações
+
+### A Importância do Incentivo à Pesquisa de Soluções em Internet para a UFRRJ
+>#### XXVIII CNMAC · 12 de set de 2005
+
+O Congresso Nacional de Matemática Aplicada e Computacional (CNMAC) é um evento que ocorre anualmente, promovido pela Sociedade Brasileira de Matemática Aplicada e Computacional (SBMAC), e que reúne pesquisadores, professores e estudantes de todo o Brasil para falar sobre projetos relacionados a tecnologia desenvolvidos nas instituições. 
+
+Eu enquanto membro do NDWEB, tive participação no desenvolvimento dos portais de vários institutos da UFRuralRJ, colaborando para informatização e automação de processos para obtenção de documentos e autorizações pelos estudantes da universidade. 
+
+A percepção da importância deste trabalho por todos os membros do núcleo de desenvolvimento fez com que quiséssemos compartilhar a experiência e os resultados, o que deu origem ao projeto para ser apresentado no congresso.
+
+[Acessar publicação](http://www.fabianocouto.com.br/portfolio/certificates/cnmac/programacao_xviii_cnmac_poematica.pdf)
