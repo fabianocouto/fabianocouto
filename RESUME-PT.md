@@ -12,7 +12,7 @@ Sou apaixonado por resolver desafios complexos e trazer inovações que impactam
 
 ## Experiência Profissional
 
-#### Software Engineer
+### Software Engineer
 >##### OLX Brasil · Tempo integral
 >_mar de 2022 - jan de 2025 · 2 anos 11 meses_
 >_Rio de Janeiro, Brasil · RemotaRio de Janeiro, Brasil · Remota_
@@ -28,7 +28,7 @@ Na liga Customer Journey Success (CJS), onde a missão era proporcionar a melhor
 
 <hr>
 
-#### Programador de Internet / Analista Desenvolvedor 
+### Programador de Internet / Analista Desenvolvedor 
 >##### Boa Diversão Promoção e Entretenimento Ltda · Tempo integral
 >_dez de 2008 - mar de 2022 · 13 anos 4 meses_<br>
 >_Rio de Janeiro e Região, Brasil · Presencial_
@@ -47,7 +47,7 @@ A Go Content (www.gocontent.com.br) é uma empresa especializada em marketing di
 
 <hr>
 
-#### Analista De Sistemas de Automação / Desenvolvedor (Full Stack)
+### Analista De Sistemas de Automação / Desenvolvedor (Full Stack)
 >##### Produto Editorial Comunicação Ltda · Tempo integral
 >_abr de 2008 - dez de 2008 · 9 meses_<br>
 >_Rio de Janeiro e Região, Brasil · Presencial_
@@ -60,7 +60,7 @@ Além de suporte a usuários, manutenção de servidores e automação de proces
 
 <hr>
 
-#### Suporte / Desenvolvedor
+### Suporte / Desenvolvedor
 >##### RCR Informática Ltda · Tempo integral
 >_ago de 2007 - mai de 2008 · 10 meses_<br>
 >_Rio de Janeiro e Região, Brasil · Presencial_
@@ -73,7 +73,7 @@ Colaborei com desenvolvimento e manutenção de soluções voltadas para institu
 
 <hr>
 
-#### Analista De Desenvolvimento de Sistemas (Full Stack)
+### Analista De Desenvolvimento de Sistemas (Full Stack)
 >##### Editora dos Esportes SPA XXI LTDA · Tempo integral
 >_dez de 2005 - ago de 2007 · 1 ano 9 meses_
 >_Rio de Janeiro e Região, Brasil · Presencial_
@@ -86,13 +86,13 @@ Após a reformulação, onde também utilizei técnicas de SEO, o portal passou 
 
 ## Formação acadêmica
 
-#### Centro de Educação a Distância do Estado do Rio de Janeiro (CEDERJ)
+### Centro de Educação a Distância do Estado do Rio de Janeiro (CEDERJ)
 >##### Tecnologia em Sistemas de Computação
 >_2019 (Trancada)_ 
 
 <hr>
 
-#### Universidade Federal Rural do Rio de Janeiro
+### Universidade Federal Rural do Rio de Janeiro
 >##### Ciências Exatas e Tecnologia da Informação
 >_2003 - 2006 (Incompleta)_
 
@@ -110,7 +110,7 @@ Instrutor do projeto de capacitação e treinamento para desenvolvimento e manut
 
 <hr>
 
-#### Escola Técnica Estadual Visconde de Mauá
+### Escola Técnica Estadual Visconde de Mauá
 >##### Técnico em Eletromecânica, Técnico em Tecnologia Industrial
 >_1997 - 1999_
 
@@ -128,7 +128,7 @@ A Escola Técnica Estadual Visconde de Mauá (ETEVM) pertence a rede de escolas 
 
 ## Publicações
 
-#### A Importância do Incentivo à Pesquisa de Soluções em Internet para a UFRRJ
+### A Importância do Incentivo à Pesquisa de Soluções em Internet para a UFRRJ
 >##### XXVIII CNMAC · 12 de set de 2005
 
 O Congresso Nacional de Matemática Aplicada e Computacional (CNMAC) é um evento que ocorre anualmente, promovido pela Sociedade Brasileira de Matemática Aplicada e Computacional (SBMAC), e que reúne pesquisadores, professores e estudantes de todo o Brasil para falar sobre projetos relacionados a tecnologia desenvolvidos nas instituições. 
