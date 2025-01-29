@@ -1,4 +1,4 @@
-# Fabiano Couto de Lima
+# Fabiano Couto de Lima ([LinkedIn](https://www.linkedin.com/in/fabianocoutol/))
 #### Sr Software Engineer | Clean Code | Clean Architecture | SPA | CI/CD | Micro-services
 Rio de Janeiro, Rio de Janeiro, Brasil
 
