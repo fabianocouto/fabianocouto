@@ -1,12 +1,35 @@
+# Fabiano Couto de Lima
+#### Sr Software Engineer | Clean Code | Clean Architecture | SPA | CI/CD | Micro-services
+Rio de Janeiro, Rio de Janeiro, Brasil
 
+## Sobre
 
+Profissional experiente com conhecimento e experiência em analise e desenvolvimento de sistemas, frontend e backend. Especializado em criar soluções para automação e otimização de processos, padrões de desenvolvimento, linguagens de programação, integração entre sistemas (API), sistemas de gerenciamento de conteúdo (CMS), planejamento de recursos corporativos (ERP) e e-Commerce.
 
+Sou apaixonado por resolver desafios complexos e trazer inovações que impactam positivamente a operação e a segurança. Através de práticas de integração e entrega contínuas e minha expertise em criar soluções, contribuo significativamente para a eficiência operacional e a confiabilidade das plataformas, sempre com o compromisso em otimizar custos e garantir a melhor experiência para os usuários.
 
+**Principais competências**: Desenvolvimento de software • Microsserviços • Serverless • Integração e entrega contínuas (CI/CD) • Amazon Web Services
 
+## Experiência Profissional
 
+### Software Engineer
+>#### OLX Brasil · Tempo integral
+>_mar de 2022 - jan de 2025 · 2 anos 11 meses_
+>_Rio de Janeiro, Brasil · RemotaRio de Janeiro, Brasil · Remota_
 
-## Programador de Internet / Analista Desenvolvedor 
->### Boa Diversão Promoção e Entretenimento Ltda
+Na liga Customer Journey Success (CJS), onde a missão era proporcionar a melhor experiência de atendimento aos usuários, colaborei com desenvolvimento e manutenção de ferramentas para gestão de contas, anúncios, pagamentos e central de ajuda. Nossa missão principal era facilitar a resolução de problemas dos usuários externos, diminuindo o tempo e esforço no atendimento pelo time de experiência dos usuários (CX). 
+
+Na liga Trust & Safety, onde a missão é garantir um ambiente seguro e confiável, colaborei com desenvolvimento e manutenção de ferramentas de moderação de anúncios e denúncias, automação de processos de analise de fraudes e geração de dados e inteligências que auxiliem nas analises de modelos de machine learning (ML). Nossa missão principal era evitar atividade fraudulenta e o mal uso da plataforma.
+
+Durante esse período, também contribuí para otimização de recursos e redução de custos de serviços da AWS, com resultados expressivos, gerando 70% de economia na utilização de RDS, por exemplo. Também identifiquei e removi serviços ociosos, e otimizei recursos superdimensionados.
+Na liga Customer Journey Success (CJS), onde a missão era proporcionar a melhor experiência de atendimento aos usuários, colaborei com desenvolvimento e manutenção de ferramentas para gestão de contas, anúncios, pagamentos e central de ajuda. Nossa missão principal era facilitar a resolução de problemas dos usuários externos, diminuindo o tempo e esforço no atendimento pelo time de experiência dos usuários (CX). Na liga Trust & Safety, onde a missão é garantir um ambiente seguro e confiável, colaborei com desenvolvimento e manutenção de ferramentas de moderação de anúncios e denúncias, automação de processos de analise de fraudes e geração de dados e inteligências que auxiliem nas analises de modelos de machine learning (ML). Nossa missão principal era evitar atividade fraudulenta e o mal uso da plataforma. Durante esse período, também contribuí para otimização de recursos e redução de custos de serviços da AWS, com resultados expressivos, gerando 70% de economia na utilização de RDS, por exemplo. Também identifiquei e removi serviços ociosos, e otimizei recursos superdimensionados.
+
+**Competências**: Banco de dados · Espírito de equipe · Node.js · Desenvolvimento de front-end · Desenvolvimento de software · Serverless · Automação de processos · TypeScript · Kotlin · Integração contínua · React · RabbitMQ · HTML · CSS · JavaScript · Desenvolvimento web · Desenvolvimento de sistemas · Amazon Web Services · Go (Linguagem de programação) · Docker · API REST · Git · Padrões de desenvolvimento de software · Lógica de Programação · Análise de Big Data · Trabalho em equipe · React.js · SQL · Programação orientada a objetos (POO) · Microsserviços · Desenvolvimento de back-end · PostgreSQL · Teste de interface do usuário · Integração e entrega contínuas (CI/CD)
+
+<hr>
+
+### Programador de Internet / Analista Desenvolvedor 
+>#### Boa Diversão Promoção e Entretenimento Ltda · Tempo integral
 >_dez de 2008 - mar de 2022 · 13 anos 4 meses_<br>
 >_Rio de Janeiro e Região, Brasil · Presencial_
 
@@ -22,9 +45,10 @@ A Go Content (www.gocontent.com.br) é uma empresa especializada em marketing di
 
 **Competências**: Injeção de dependência · Banco de dados · Espírito de equipe · Desenvolvimento de front-end · Desenvolvimento de software · Automação de processos · Gateways de pagamento · Linux · Integração contínua · HTML · CSS · JavaScript · Desenvolvimento web · Comércio eletrônico · Desenvolvimento de sistemas · Amazon Web Services · PHP · Docker · SEO · API REST · Sistema de gestão de conteúdo · Vue.js · Git · Padrões de desenvolvimento de software · Lógica de Programação · Trabalho em equipe · MySQL · Bootstrap · SQL · Programação orientada a objetos (POO) · Desenvolvimento de back-end · Teste de interface do usuário · Integração e entrega contínuas (CI/CD) · ERP (Planejamento de recursos empresariais)
 
+<hr>
 
-## Analista De Sistemas de Automação / Desenvolvedor (Full Stack)
->### Produto Editorial Comunicação Ltda · Tempo integral
+### Analista De Sistemas de Automação / Desenvolvedor (Full Stack)
+>#### Produto Editorial Comunicação Ltda · Tempo integral
 >_abr de 2008 - dez de 2008 · 9 meses_<br>
 >_Rio de Janeiro e Região, Brasil · Presencial_
 
@@ -34,8 +58,10 @@ Além de suporte a usuários, manutenção de servidores e automação de proces
 
 **Competências**: Banco de dados · Espírito de equipe · Desenvolvimento de front-end · Desenvolvimento de software · HTML · CSS · JavaScript · Desenvolvimento web · Desenvolvimento de sistemas · PHP · SEO · Sistema de gestão de conteúdo · Git · Padrões de desenvolvimento de software · Lógica de Programação · Trabalho em equipe · MySQL · SQL · Programação orientada a objetos (POO) · Desenvolvimento de back-end
 
-## Suporte / Desenvolvedor
->### RCR Informática Ltda · Tempo integral
+<hr>
+
+### Suporte / Desenvolvedor
+>#### RCR Informática Ltda · Tempo integral
 >_ago de 2007 - mai de 2008 · 10 meses_<br>
 >_Rio de Janeiro e Região, Brasil · Presencial_
 
@@ -45,13 +71,50 @@ Colaborei com desenvolvimento e manutenção de soluções voltadas para institu
 
 **Competências**: Banco de dados · Espírito de equipe · Desenvolvimento de software · HTML · CSS · JavaScript · Desenvolvimento web · Desenvolvimento de sistemas · Sistema de gestão de conteúdo · Padrões de desenvolvimento de software · Lógica de Programação · Trabalho em equipe · Programação orientada a objetos (POO) · Desenvolvimento de back-end
 
-## Analista De Desenvolvimento de Sistemas (Full Stack)
->### Editora dos Esportes SPA XXI LTDA · Tempo integralEditora dos Esportes SPA XXI LTDA · Tempo integral
->_dez de 2005 - ago de 2007 · 1 ano 9 mesesDe dez de 2005 até ago de 2007 · 1 ano 9 meses_
->_Rio de Janeiro e Região, Brasil · PresencialRio de Janeiro e Região, Brasil · Presencial_
+<hr>
+
+### Analista De Desenvolvimento de Sistemas (Full Stack)
+>#### Editora dos Esportes SPA XXI LTDA · Tempo integral
+>_dez de 2005 - ago de 2007 · 1 ano 9 meses_
+>_Rio de Janeiro e Região, Brasil · Presencial_
 
 No primeiro instante, prestei suporte a usuários da rede, fiz manutenção de computadores e impressoras da redação e monitorava o processo de publicação do diário esportivo. Após este período, exercendo a função de desenvolvedor web, fui responsável pela reformulação completa do portal do Jornal dos Sports, desde a concepção da nova comunicação visual, até projeto, desenvolvimento e implantação de um novo CMS, utilizando MySQL, PHP, HTML (Tableless), CSS e JavaScript. 
 
 Após a reformulação, onde também utilizei técnicas de SEO, o portal passou de 500k para 3mi de pages views por mês, o que proporcionou uma parceria com o provedor UOL. Essa parceria consistia em disponibilizar conteúdo do portal nas páginas do UOL, e quando uma matéria recebia destaque na home, o site tinha picos de acessos simultâneos que degradavam o servidor. O maior desafio foi criar uma solução que evitasse essa degradação, e nessa época não se falava muito em cache, pois a maioria dos sites na internet eram estáticos. Foi quando desenvolvi um sistema de "cache" que gerava arquivos estáticos em HTML das páginas dinâmicas do portal do jornal.
 
 **Competências**: Banco de dados · Espírito de equipe · Desenvolvimento de software · HTML · CSS · Desenvolvimento web · Desenvolvimento de sistemas · Sistema de gestão de conteúdo · Padrões de desenvolvimento de software · Lógica de Programação · Trabalho em equipe
+
+## Formação acadêmica
+
+### Centro de Educação a Distância do Estado do Rio de Janeiro (CEDERJ)
+>#### Tecnologia em Sistemas de Computação
+>_2019 (Trancada)_ 
+
+<hr>
+
+### Universidade Federal Rural do Rio de Janeiro
+>#### Ciências Exatas e Tecnologia da Informação
+>_2003 - 2006 (Incompleta)_
+
+**Atividades e grupos**: estágio, estudo, Núcleo de Desenvolvimento de Webpages (NDweb)
+
+Membro do Núcleo de Desenvolvimento de Webpages, criado e mantido pelo Instituto de Matemática. 
+
+O NDweb foi responsável pelo desenvolvimento e manutenção de grande parte dos sites institucionais da UFRRJ. 
+
+Apresentação do projeto "A Importância do Incentivo à Pesquisa de Soluções em Internet para a UFRRJ" no XVIII CNMAC. 
+
+Instrutor do projeto de capacitação e treinamento para desenvolvimento e manutenção do portal da universidade.
+
+**Competências**: SQL · Programação orientada a objetos (POO) · PostgreSQL · Desenvolvimento de back-end · Desenvolvimento de software · PHP · Desenvolvimento de front-end · Espírito de equipe · Sistema de gestão de conteúdo · Padrões de desenvolvimento de software · Linux · Desenvolvimento web · JavaScript · CSS · Desenvolvimento de sistemas · HTML · Lógica de Programação · Banco de dados · Trabalho em equipe
+
+<hr>
+
+### Escola Técnica Estadual Visconde de Mauá
+>#### Técnico em Eletromecânica, Técnico em Tecnologia Industrial
+>_1997 - 1999_
+
+**Atividades e grupos**: soldagem, usinagem, torno mecânico, fresadora, painéis elétricos, redes elétricas
+
+A Escola Técnica Estadual Visconde de Mauá (ETEVM) pertence a rede de escolas da Fundação de Apoio à Escola Técnica (FAETEC), que é a instituição responsável pela implementação da política de Educação Profissional e Tecnológica do Estado do Rio de Janeiro. Na ETEVM eu aprendi a operar e dar manutenção em máquinas industriais e painéis elétricos, além do ensino técnico para o desenvolvimento de projetos de peças e instalações.
+
