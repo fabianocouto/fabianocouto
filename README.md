@@ -9,7 +9,7 @@ I appreciate and encourage the creation of simple solutions, clean code, respons
 
 I believe that the future will be entirely in the clouds and that web applications will dominate the world. Computers and cell phones will only need a web browser.
 
-[See my resume](RESUME.md).
+[See my resume.](RESUME.md)
 
 <div class="d-block">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats"><img src="https://raw.githubusercontent.com/fabianocouto/fabianocouto/main/assets/stats.svg" alt="fabianocouto" width=48.7% align=left /></a>
