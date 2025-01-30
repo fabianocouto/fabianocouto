@@ -16,7 +16,7 @@ I am passionate about solving complex challenges and bringing innovations that p
 
 ### Software Engineer
 >##### OLX Brasil · Full time
->_mar de 2022 - jan de 2025 · 2 years 11 months_ <br>
+>_mar 2022 - jan 2025 · 2 years 11 months_ <br>
 >_Rio de Janeiro, Brazil · Remote_
 
 In the Customer Journey Success (CJS) league, where the mission was to provide the best customer service experience, I collaborated with the development and maintenance of tools for account management, advertising, payments and the help center. Our main mission was to facilitate the resolution of external users' problems, reducing the time and effort spent by the customer experience (CX) team.
@@ -31,7 +31,7 @@ During this period, I also contributed to resource optimization and cost reducti
 
 ### Internet Programmer / Developer Analyst 
 >##### Boa Diversão Promoção e Entretenimento Ltda · Full time
->_dec de 2008 - mar de 2022 · 13 years 4 months_ <br>
+>_dec 2008 - mar 2022 · 13 years 4 months_ <br>
 >_Rio de Janeiro, Brazil · On site_
 
 GBD Entretenimento is a group of successful companies that includes Ingresso Certo, Boa Diversão, Surf Connect and Go Content.
@@ -50,7 +50,7 @@ Go Content (www.gocontent.com.br) is a company specialized in digital marketing.
 
 ### Automation Systems Analyst / Developer (Full Stack)
 >##### Produto Editorial Comunicação Ltda · Full time
->_apr de 2008 - dec de 2008 · 9 months_ <br>
+>_apr 2008 - dec 2008 · 9 months_ <br>
 >_Rio de Janeiro, Brazil · On site_
 
 I was responsible for maintaining the web and network servers. I developed the intranet and improved internal processes for publishing the sports journal, creating a solution for automating the generation of PDF files and sending them to the printer via FTP, using Adobe tools such as Distiller.
@@ -63,7 +63,7 @@ In addition to user support, server maintenance and process automation, I develo
 
 ### Support / Developer
 >##### RCR Informática Ltda · Full time
->_ago de 2007 - mai de 2008 · 10 months_ <br>
+>_aug 2007 - may 2008 · 10 months_ <br>
 >_Rio de Janeiro, Brazil · On site_
 
 I provided support to users, and occasionally carried out technical visits and training for customers to use the systems.
@@ -76,7 +76,7 @@ I collaborated with the development and maintenance of solutions aimed at educat
 
 ### Systems Development Analyst (Full Stack)
 >##### Editora dos Esportes SPA XXI LTDA · Full time
->_dez de 2005 - ago de 2007 · 1 year 9 months_ <br>
+>_dec 2005 - aug 2007 · 1 year 9 months_ <br>
 >_Rio de Janeiro, Brazil · On site_
 
 Initially, I provided support to network users, maintained computers and printers in the newsroom, and monitored the publication process of the sports daily. After this period, working as a web developer, I was responsible for the complete reformulation of the Jornal dos Sports website, from the conception of the new visual communication to the design, development, and implementation of a new CMS, using MySQL, PHP, HTML (Tableless), CSS, and JavaScript.
