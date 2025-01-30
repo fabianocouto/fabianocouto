@@ -2,7 +2,7 @@
 
 # Fabiano Couto de Lima ([LinkedIn](https://www.linkedin.com/in/fabianocoutol/))
 #### Sr Software Engineer | Clean Code | Clean Architecture | SPA | CI/CD | Micro-services
-Rio de Janeiro, Rio de Janeiro, Brasil
+Rio de Janeiro, Brasil
 
 ## Sobre
 
@@ -17,7 +17,7 @@ Sou apaixonado por resolver desafios complexos e trazer inovações que impactam
 ### Software Engineer
 >##### OLX Brasil · Tempo integral
 >_mar de 2022 - jan de 2025 · 2 anos 11 meses_
->_Rio de Janeiro, Brasil · RemotaRio de Janeiro, Brasil · Remota_
+>_Rio de Janeiro, Brasil · Remoto_
 
 Na liga Customer Journey Success (CJS), onde a missão era proporcionar a melhor experiência de atendimento aos usuários, colaborei com desenvolvimento e manutenção de ferramentas para gestão de contas, anúncios, pagamentos e central de ajuda. Nossa missão principal era facilitar a resolução de problemas dos usuários externos, diminuindo o tempo e esforço no atendimento pelo time de experiência dos usuários (CX). 
 
@@ -32,7 +32,7 @@ Durante esse período, também contribuí para otimização de recursos e reduç
 ### Programador de Internet / Analista Desenvolvedor 
 >##### Boa Diversão Promoção e Entretenimento Ltda · Tempo integral
 >_dez de 2008 - mar de 2022 · 13 anos 4 meses_<br>
->_Rio de Janeiro e Região, Brasil · Presencial_
+>_Rio de Janeiro, Brasil · No local_
 
 O GBD Entretenimento é um grupo de empresas de sucesso no qual compreende Ingresso Certo, Boa Diversão, Surf Connect e Go Content.
 
@@ -51,7 +51,7 @@ A Go Content (www.gocontent.com.br) é uma empresa especializada em marketing di
 ### Analista De Sistemas de Automação / Desenvolvedor (Full Stack)
 >##### Produto Editorial Comunicação Ltda · Tempo integral
 >_abr de 2008 - dez de 2008 · 9 meses_<br>
->_Rio de Janeiro e Região, Brasil · Presencial_
+>_Rio de Janeiro, Brasil · No local_
 
 Fui responsável pela manutenção dos servidores web e de rede. Desenvolvi a intranet e aprimorei processos internos para publicação do diário esportivo, criando solução para automação na geração de arquivos PDFs e envio para gráfica através de FTP, utilizando ferramentas da Adobe, como Distiller.
 
@@ -64,7 +64,7 @@ Além de suporte a usuários, manutenção de servidores e automação de proces
 ### Suporte / Desenvolvedor
 >##### RCR Informática Ltda · Tempo integral
 >_ago de 2007 - mai de 2008 · 10 meses_<br>
->_Rio de Janeiro e Região, Brasil · Presencial_
+>_Rio de Janeiro, Brasil · No local_
 
 Prestei suporte a usuários, e eventualmente fazia visitas técnicas e treinamento para utilização dos sistemas junto aos clientes.
 
@@ -77,7 +77,7 @@ Colaborei com desenvolvimento e manutenção de soluções voltadas para institu
 ### Analista De Desenvolvimento de Sistemas (Full Stack)
 >##### Editora dos Esportes SPA XXI LTDA · Tempo integral
 >_dez de 2005 - ago de 2007 · 1 ano 9 meses_
->_Rio de Janeiro e Região, Brasil · Presencial_
+>_Rio de Janeiro, Brasil · No local_
 
 No primeiro instante, prestei suporte a usuários da rede, fiz manutenção de computadores e impressoras da redação e monitorava o processo de publicação do diário esportivo. Após este período, exercendo a função de desenvolvedor web, fui responsável pela reformulação completa do portal do Jornal dos Sports, desde a concepção da nova comunicação visual, até projeto, desenvolvimento e implantação de um novo CMS, utilizando MySQL, PHP, HTML (Tableless), CSS e JavaScript. 
 
