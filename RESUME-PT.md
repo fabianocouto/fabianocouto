@@ -6,7 +6,7 @@ Rio de Janeiro, Brasil
 
 ## Sobre
 
-Profissional experiente com conhecimento e experiência em analise e desenvolvimento de sistemas, frontend e backend. Especializado em criar soluções para automação e otimização de processos, padrões de desenvolvimento, linguagens de programação, integração entre sistemas (API), sistemas de gerenciamento de conteúdo (CMS), planejamento de recursos corporativos (ERP) e e-Commerce.
+Profissional com conhecimento e experiência em analise e desenvolvimento de sistemas, frontend e backend. Especializado em criar soluções para automação e otimização de processos, padrões de desenvolvimento, linguagens de programação, integração entre sistemas (API), sistemas de gerenciamento de conteúdo (CMS), planejamento de recursos corporativos (ERP) e e-Commerce.
 
 Sou apaixonado por resolver desafios complexos e trazer inovações que impactam positivamente a operação e a segurança. Através de práticas de integração e entrega contínuas e minha expertise em criar soluções, contribuo significativamente para a eficiência operacional e a confiabilidade das plataformas, sempre com o compromisso em otimizar custos e garantir a melhor experiência para os usuários.
 
