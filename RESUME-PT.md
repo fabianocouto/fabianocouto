@@ -138,4 +138,4 @@ Eu enquanto membro do NDWEB, tive participação no desenvolvimento dos portais 
 
 A percepção da importância deste trabalho por todos os membros do núcleo de desenvolvimento fez com que quiséssemos compartilhar a experiência e os resultados, o que deu origem ao projeto para ser apresentado no congresso.
 
-[Acessar publicação](http://www.fabianocouto.com.br/portfolio/certificates/cnmac/programacao_xviii_cnmac_poematica.pdf)
+[Ver publicação](http://www.fabianocouto.com.br/portfolio/certificates/cnmac/programacao_xviii_cnmac_poematica.pdf)
