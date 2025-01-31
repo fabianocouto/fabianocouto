@@ -138,4 +138,4 @@ As a member of NDWEB, I participated in the development of portals for several i
 
 The perception of the importance of this work by all members of the development group made us want to share the experience and results, which gave rise to the project to be presented at the congress.
 
-[Access publication](http://www.fabianocouto.com.br/portfolio/certificates/cnmac/programacao_xviii_cnmac_poematica.pdf)
+[See publication](http://www.fabianocouto.com.br/portfolio/certificates/cnmac/programacao_xviii_cnmac_poematica.pdf)
