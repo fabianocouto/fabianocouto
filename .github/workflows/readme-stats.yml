@@ -36,7 +36,7 @@ jobs:
         run: curl 'https://fabianocouto-readme-stats.vercel.app/api/top-langs/?username=fabianocouto&layout=compact&langs_count=10&theme=github_dark_dimmed' -o top-langs.svg
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: assets
           path: |
