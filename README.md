@@ -21,16 +21,18 @@ I believe that the future will be entirely in the clouds and that web applicatio
 ---
 ### Some public projects I've worked on
 
-[www.ingressocerto.com](http://www.ingressocerto.com/) (GBD Entretenimento)<br>
-[www.surfconnect.com.br](http://www.surfconnect.com.br/) (GBD Entretenimento)<br>
-[www.boadiversao.com.br](http://www.boadiversao.com.br/) (GBD Entretenimento)<br>
-[www.inicial.com.br](http://www.inicial.com.br/) (My Project For Freelance Jobs)<br>
-[www.economiadodia.com.br](http://www.economiadodia.com.br/) (Incial Soluções, Freelancer)<br>
-[www.festaserrejota.com.br](http://www.festaserrejota.com.br/) (Incial Soluções, Freelancer)<br>
-[www.reveillons.com.br](http://www.reveillons.com.br/) (Incial Soluções, Freelancer)<br>
-[www.agilizaoperacoes.com.br](http://www.agilizaoperacoes.com.br/) (Incial Soluções, Freelancer)<br>
-[www.cjuridico.com.br](http://www.cjuridico.com.br/) (Incial Soluções, Freelancer)<br>
-[www.cmpk.com.br](http://www.cmpk.com.br/) (Incial Soluções, Freelancer)<br>
+[onerpm.com](https://onerpm.com/) (ONErpm) <br>
+[ajuda.olx.com.br](https://ajuda.olx.com.br/s) (OLX Brasil)<br>
+[ingressocerto.com](http://www.ingressocerto.com/) (GBD Entretenimento)<br>
+[surfconnect.com.br](http://www.surfconnect.com.br/) (GBD Entretenimento)<br>
+[boadiversao.com.br](http://www.boadiversao.com.br/) (GBD Entretenimento)<br>
+[inicial.com.br](http://www.inicial.com.br/) (My Project For Freelance Jobs)<br>
+[economiadodia.com.br](http://www.economiadodia.com.br/) (Incial Soluções, Freelancer)<br>
+[festaserrejota.com.br](http://www.festaserrejota.com.br/) (Incial Soluções, Freelancer)<br>
+[reveillons.com.br](http://www.reveillons.com.br/) (Incial Soluções, Freelancer)<br>
+[agilizaoperacoes.com.br](http://www.agilizaoperacoes.com.br/) (Incial Soluções, Freelancer)<br>
+[cjuridico.com.br](http://www.cjuridico.com.br/) (Incial Soluções, Freelancer)<br>
+[cmpk.com.br](http://www.cmpk.com.br/) (Incial Soluções, Freelancer)<br>
 
 ---
 ### Some open source projects I've created
