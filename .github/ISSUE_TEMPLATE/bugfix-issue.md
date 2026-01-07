@@ -6,17 +6,17 @@ labels: 'Bug'
 assignees: ''
 
 ---
-
-# Steps to reproduce
+# Bugfix Issue Document Template
+## Steps to reproduce
 1. Step one
 2. Step two
 3. Step three
 
-# Expected behavior
+## Expected behavior
 Describe what you expected to happen.
 
-# Actual behavior
+## Actual behavior
 Describe what actually happened.
 
-# Additional context
+## Additional context
 Add any other context about the problem here, such as user or product ids, screenshots or environment details.

@@ -6,6 +6,7 @@ labels: 'Task'
 assignees: ''
 
 ---
+# Database SQL Document Template
 This script is for issue `#ID`
 
 ## Creation Script

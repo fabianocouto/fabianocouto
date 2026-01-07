@@ -18,13 +18,13 @@
 - [ ] `Medium`
 - [ ] `High`
 
-## How Has This Been Tested?
+## How has this been tested?
 - [ ] Unit tests
 - [ ] Integration tests
 - [ ] Functional tests
 - [ ] Load tests
 
-## Checklist:
+## Checklist
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
 - [ ] My changes generate no new warnings
