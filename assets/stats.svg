@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Fabiano Couto's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Commits  : 14168, Total PRs: 445, Total Issues: 573, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Commits  : 14175, Total PRs: 445, Total Issues: 573, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 102.38793588529983;
+        stroke-dashoffset: 102.38792487077026;
       }
     }
   
