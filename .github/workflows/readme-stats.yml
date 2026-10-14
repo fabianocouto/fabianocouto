@@ -18,7 +18,7 @@ jobs:
         run: curl 'https://fabianocouto-readme-stats.vercel.app/api?username=fabianocouto&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&rank_icon=github' -o stats.svg
 
       - name: Download streak stats
-        run: curl 'https://fabianocouto-readme-streak-stats.vercel.app/?user=fabianocouto&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=539bf5&currStreakLabel=539bf5&fire=539bf5' -o streak-stats.svg
+        run: curl 'https://fabianocouto-streak-stats.vercel.app/?user=fabianocouto&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=539bf5&currStreakLabel=539bf5&fire=539bf5' -o streak-stats.svg
 
       - name: Download activity graph
         run: curl 'https://fabianocouto-activity-graph.vercel.app/graph/?username=fabianocouto&theme=github-dark-dimmed&radius=6&area=true' -o activity-graph.svg
