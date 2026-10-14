@@ -1,4 +1,4 @@
-[![Views](https://komarev.com/ghpvc/?username=fabianocouto&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
+[![Views](https://komarev.com/ghpvc/?username=fabianocouto&color=blue&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 [![wakatime](https://wakatime.com/badge/user/e10e1993-7b76-418e-9b12-a01c184ddcca.svg)](https://wakatime.com/@e10e1993-7b76-418e-9b12-a01c184ddcca)
 
 ## Hey, I'm Fabiano Couto!
